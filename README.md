@@ -2,7 +2,8 @@
 ## Hey! Im Fxcilities or Fxc 👋
 
 ### What do i do?
-- I do coding projects such as Minecraft plugins, Discord bots, and other random things ![Fxcilities](https://cdn.discordapp.com/avatars/393859835331870721/e33c0cd8f5696bce17d089f93646bb98.png)
+- I do coding projects such as Minecraft plugins, Discord bots, and other random things 
+![Fxcilities](https://cdn.discordapp.com/avatars/393859835331870721/e33c0cd8f5696bce17d089f93646bb98.png)
 - My current projects:
   - [Essentials Discord Bot](https://essentialsbot.xyz) - [Invite](https://essentialsbot.xyz/invite/)
   - [World Discord Bot](https://top.gg/bot/700292147311542282) - [Invite](https://discord.com/api/oauth2/authorize?client_id=700292147311542282&permissions=8&scope=bot)

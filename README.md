@@ -17,7 +17,7 @@
   - ~~LOLCODE~~ no :>
 
 - What i hope to do eventully: (Brainstorming)
-  - A python project thats not a discord bot.
+  - ~~A python project thats not a discord bot.~~ ✅
   - Learn more coding languages.
 
 - Contacts:

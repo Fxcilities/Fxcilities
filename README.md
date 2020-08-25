@@ -1,5 +1,4 @@
 <img align='right' src="https://avatars3.githubusercontent.com/u/48619853?s=460&u=539e8de61da1fa16d76edd61a9f296b5e3f7e414&v=4" width="230">
-<img align='right' src="https://cdn.discordapp.com/avatars/715393159600930897/ac649eaac5ab83888bf3b7818fe8d7e3.webp">
 ## Hey! Im Fxcilities or Fxc 👋
 
 ### What do i do?

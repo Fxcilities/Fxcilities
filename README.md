@@ -18,6 +18,7 @@ https://fxcilities.xyz
   - Minecraft plugins for friends
   - [AquaApps Discord Bot](https://github.com/AquaHQ) - Custom Staff Application bot for the [AquaHQ Network](https://aquahq.net)
   - [Microwave Api](https://api.microwave.cam) - A random api thats pretty fun to play around with, still in development, **yes the domain ends with .cam**
+  - [Fxcilities' Mail](https://fxcilities.xyz/coming_soon.php) - A Discord bot written in python to check your email.
 
 
 ### Who am I?

@@ -23,12 +23,12 @@ https://fxcilities.xyz
 ### Who am I?
 
 - Info things
-  - I live in Canada, city: **no :>**
   
   🤔
   - you are reading this right now
   - your kind of sus
   - vote reader out
+  
   ***reader was not the imposter***
   
 - Coding languages I know:

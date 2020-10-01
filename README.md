@@ -16,7 +16,7 @@ https://fxcilities.xyz
   - [iad.py](https://fxcilities.xyz/coming_soon.php) - A Python wrraper for the private developer file uploader [im-a-dev](https://im-a-dev.xyz)
   - MCDiscord - Connect Minecraft and Discord through the [JDA (Java Discord API)](https://github.com/DV8FromTheWorld/JDA) library, and the [Spigot API](https://hub.spigotmc.org/javadocs/spigot/index.html) library. A Discord bot that gets game infos from a Minecraft server.
   - Minecraft plugins for friends
-  - [AquaApps Discord Bot](https://github.com/AquaHQ) - Custom Staff Application bot for the [https://aquahq.net](AquaHQ Network)
+  - [AquaApps Discord Bot](https://github.com/AquaHQ) - Custom Staff Application bot for the [AquaHQ Network](https://aquahq.net)
   - [Microwave Api](https://api.microwave.cam) - A random api thats pretty fun to play around with, still in development, **yes the domain ends with .cam**
 
 

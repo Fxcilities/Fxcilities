@@ -44,7 +44,7 @@ https://fxcilities.xyz
   - Some more Java projects
   
 - Contacts:
-  - Temp Email: fxcilities@deltanetmc.xyz
+  - Email: fxcilities@deltanetmc.xyz **or** fxcilities@essentialsbot.xyz
   - Discord: fxcilities#4728
   - my ip address: wait, is that a flying baguette?
   

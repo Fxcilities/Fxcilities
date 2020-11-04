@@ -37,11 +37,6 @@ https://fxcilities.xyz
   - Java
   - Learning C#
   - ~~LOLCODE~~ no :>
-
-- What i hope to do eventully: (Brainstorming)
-  - ~~A python project thats not a discord bot.~~ ✅
-  - Learn more coding languages.
-  - Some more Java projects
   
 - Contacts:
   - Email: fxcilities@deltanetmc.xyz **or** fxcilities@essentialsbot.xyz

@@ -12,7 +12,7 @@ https://fxcilities.xyz
 - My current projects:
   - [Essentials Discord Bot](https://essentialsbot.xyz) - [Invite](https://essentialsbot.xyz/invite/)
   - [World Discord Bot](https://top.gg/bot/700292147311542282) - [Invite](https://discord.com/api/oauth2/authorize?client_id=700292147311542282&permissions=8&scope=bot)
-  - [im-a-dev](https://im-a-dev.xyz/) - A private file uploader for developers with a Python wrapper. [Discord](https://discord.gg/r9MHCxr) 
+  - [im-a-dev](https://im-a-dev.xyz/) - A private file uploader for developers. [Discord](https://discord.gg/r9MHCxr) 
   - [iad.py](https://fxcilities.xyz/coming_soon.php) - A Python wrraper for the private developer file uploader [im-a-dev](https://im-a-dev.xyz)
   - [MCDiscord](https://fxcilities.xyz/coming_soon.php) - Connect Minecraft and Discord through the [JDA (Java Discord API)](https://github.com/DV8FromTheWorld/JDA) library, and the [Spigot API](https://hub.spigotmc.org/javadocs/spigot/index.html) library. A Discord bot that gets game infos from a Minecraft server.
   - Minecraft plugins for friends

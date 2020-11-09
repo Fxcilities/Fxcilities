@@ -35,7 +35,7 @@ https://fxcilities.xyz
 - Coding languages I know:
   - Python
   - Java
-  - Learning C#
+  - C#
   - ~~LOLCODE~~ no :>
   
 - Contacts:

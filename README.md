@@ -17,7 +17,7 @@ https://fxcilities.xyz
   - [MCDiscord](https://fxcilities.xyz/coming_soon.php) - Connect Minecraft and Discord through the [JDA (Java Discord API)](https://github.com/DV8FromTheWorld/JDA) library, and the [Spigot API](https://hub.spigotmc.org/javadocs/spigot/index.html) library. A Discord bot that gets game infos from a Minecraft server. Made for [AquaHQ Network](https://aquahq.net)
   - Minecraft plugins for friends
   - [AquaApps Discord Bot](https://github.com/AquaHQ) - Custom Staff Application bot for the [AquaHQ Network](https://aquahq.net)
-  - [Microwave Api](https://api.microwave.cam) - A random api thats pretty fun to play around with, still in development, **yes the domain ends with .cam**
+  - [Microwave Api](https://api.microwave.cam) - A random api thats pretty fun to play around with, Still in development, **yes the domain ends with .cam**
   - [Fxcilities' Mail](https://fxcilities.xyz/coming_soon.php) - A Discord bot written in python to check your email.
 
 
@@ -26,11 +26,11 @@ https://fxcilities.xyz
 - Info things
   
   🤔
-  - you are reading this right now
-  - your kind of sus
-  - vote reader out
-  
-  ***reader was not the imposter***
+
+
+
+
+
   
 - Coding languages I know:
   - Python
@@ -41,7 +41,7 @@ https://fxcilities.xyz
 - Contacts:
   - Email: fxcilities@deltanetmc.xyz **or** fxcilities@essentialsbot.xyz
   - Discord: fxcilities#4728
-  - my ip address: wait, is that a flying baguette?
+  - my ip address: wait, is that a flying baguette?l
   
   
   

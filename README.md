@@ -13,7 +13,7 @@ https://fxcilities.xyz
   - [Essentials Discord Bot](https://essentialsbot.xyz) - [Invite](https://essentialsbot.xyz/invite/)
   - [World Discord Bot](https://top.gg/bot/700292147311542282) - [Invite](https://discord.com/api/oauth2/authorize?client_id=700292147311542282&permissions=8&scope=bot)
   - [im-a-dev](https://im-a-dev.xyz/) - A private file uploader for developers. [Discord](https://discord.gg/r9MHCxr) 
-  - [iad.py](https://fxcilities.xyz/coming_soon.php) - A Python wrraper for the private developer file uploader [im-a-dev](https://im-a-dev.xyz)
+  - [iad.py](https://github.com/Fxcilities/iad.py) - A Python wrraper for the private developer file uploader [im-a-dev](https://im-a-dev.xyz)
   - [Microwave Api](https://docs.microwave.cam) - A random api thats pretty fun to play around with, Still in development, **yes the domain ends with .cam**
   - [Fxcilities' Mail](https://fxcilities.xyz/coming_soon.php) - A Discord bot written in python to check your email.
 

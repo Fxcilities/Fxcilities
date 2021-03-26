@@ -37,8 +37,8 @@ https://fxcilities.xyz
   - very small amount of html
   
 - Contacts:
-  - Email: fxcilities@deltanetmc.xyz **or** fxcilities@essentialsbot.xyz
-  - Discord: fxcilities#4728
+  - Email: fxcilities@deltanetmc.xyz **or** dev@fxcilities.xyz
+  - Discord: https://discord.com/users/393859835331870721
   - my ip address: wait, is that a flying baguette?l
   
   

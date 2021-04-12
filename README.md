@@ -7,16 +7,7 @@ https://fxcilities.xyz
 
 ### Things I do
 
-- [Portfolio](https://fxcilities.xyz/portfolio.php)
-
-- Some of my current projects:
-  - [Essentials Discord Bot](https://essentialsbot.xyz) - [Invite](https://essentialsbot.xyz/invite/)
-  - [World Discord Bot](https://top.gg/bot/700292147311542282) - [Invite](https://discord.com/api/oauth2/authorize?client_id=700292147311542282&permissions=8&scope=bot)
-  - [im-a-dev](https://im-a-dev.xyz/) - A private file uploader for developers. [Discord](https://discord.gg/r9MHCxr) 
-  - [iad.py](https://github.com/Fxcilities/iad.py) - A Python wrraper for the private developer file uploader [im-a-dev](https://im-a-dev.xyz)
-  - [Microwave Api](https://docs.microwave.cam) - A random api thats pretty fun to play around with, Still in development, **yes the domain ends with .cam**
-  - [Fxcilities' Mail](https://fxcilities.xyz/coming_soon.php) - A Discord bot written in python to check your email.
-
+- [Portfolio](https://fxcilities.xyz/portfolio.php) (this site is ded just check my github repos)
 
 ### Who am I?
 - **m i c r o w a v e**
@@ -24,23 +15,18 @@ https://fxcilities.xyz
 - i say "e" **a lot**
   
   🤔
-
-
-
-
-
   
 - Coding languages I know:
   - Python
   - Java
-  - C#
+  - some C#
   - PHP
   - very small amount of html
   
 - Contacts:
   - Email: fxcilities@deltanetmc.xyz **or** dev@fxcilities.xyz
   - Discord: https://discord.com/users/393859835331870721
-  - my ip address: wait, is that a flying baguette?l
+  - my ip address: wait, is that a flying baguette?
   
   
   

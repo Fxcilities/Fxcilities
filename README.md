@@ -19,9 +19,9 @@ https://fxcilities.xyz
 - Coding languages I know:
   - Python
   - Java
-  - some C#
-  - PHP
-  - very small amount of html
+  - Some C#
+  - Some TypeScript/JavaScript
+  - a little html and css
   
 - Contacts:
   - Email: fxcilities@deltanetmc.xyz **or** dev@fxcilities.xyz
@@ -34,7 +34,7 @@ https://fxcilities.xyz
 ![Flying Baguette Go BRRRR](https://i.ibb.co/JQx3kzL/download-1.jpg)
 
 
-See ya!
+See ya! 👁👄👁
 
 <div align="center">
 	<br>

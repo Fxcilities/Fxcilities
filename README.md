@@ -1,8 +1,8 @@
 <a href="https://fxcilities.xyz"><img align='right' src="https://avatars3.githubusercontent.com/u/48619853?s=460&u=539e8de61da1fa16d76edd61a9f296b5e3f7e414&v=4" width="230"></a>
 
-## Hey! Im [Fxcilities](https://fxcilities.xyz) or Fxc 👋
+# Hey! Im [Fxcilities](https://fxcilities.xyz) or Fxc 👋
 
-# some people call me fxcil idk
+## some people call me fxcil idk
 
 ### Website (down)
 https://fxcilities.xyz

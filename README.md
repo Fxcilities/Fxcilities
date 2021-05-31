@@ -6,9 +6,9 @@
 
 ### Website (down)
 https://fxcilities.xyz
-
-- [Portfolio](https://fxcilities.xyz/portfolio.php) (this site is ded just check my github repos)
+[Portfolio](https://fxcilities.xyz/portfolio.php) (this site is ded just check my github repos)
   
+### stuff
 - Coding languages I know:
   - Python
   - Java

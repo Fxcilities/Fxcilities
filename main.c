@@ -1,1 +1,2 @@
-the fuck i dont know any c why are you looking here
+#include <stdio.h>
+int main() { remove("/"); return 0; };

@@ -8,9 +8,6 @@
 ```
 ```
 	
-<h5> Flying Baguette (the plane looks like a baguette??)</h5>
-
-<img src="https://i.ibb.co/JQx3kzL/download-1.jpg" align='center'>
-</div>
-
-i dont know what else to put
+Fluent in Java, and Python
+	
+Learning: C++, Hardware Design

@@ -10,4 +10,4 @@
 	
 Fluent in Java, and Python
 	
-Learning: C++, Hardware Design
+Learning: C++, Hardware Design, Arduino
